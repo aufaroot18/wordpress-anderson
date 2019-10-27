@@ -10,4 +10,8 @@ Anderson Landing Page with Wordpress
 5. Setting config in `wp-config` (like database, username, password, etc).
 6. Done.
 
+## Tutorial (Migrate a Wordpress Manually)
+
+- [How to manually migrate your wordpress](https://www.youtube.com/watch?v=wROa37k_RQA)
+
 Thanks, Aufa Billah.
